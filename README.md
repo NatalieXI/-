@@ -7,7 +7,7 @@ Jquery、JqGrid、Datatables、NiceValidator、Viwer、Echarts
 
 2. 移动端（微信公众号）
 
-Vue、Webpack、Nodejs
+Vue、Webpack、Nodejs、SUI、Esline
 
 ### 后台技术
 
