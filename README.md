@@ -15,7 +15,7 @@ Spring、Strtus、Ibatis、WebService、QuartZ、Log4j、POI、Dom4j、SAXReader
 
 ### 数据库技术
 
-Oracle、Redis、MySql、触发器、存储过程
+Oracle、Redis、MySql、触发器、存储过程、kettle
 
 ### 服务器技术
 
