@@ -3,25 +3,25 @@
 ### 前端技术（web端，移动端）
 1. web端
 
-jquery、jqGrid、datatables、niceValidator、viwer、Echarts
+Jquery、JqGrid、Datatables、NiceValidator、Viwer、Echarts
 
 2. 移动端（微信公众号）
 
-Vue、webpack、nodejs
+Vue、Webpack、Nodejs
 
 ### 后台技术
 
-Spring、Strtus、ibatis、webService、quartZ、log4j、POI、dom4j、SAXReader
+Spring、Strtus、Ibatis、WebService、QuartZ、Log4j、POI、Dom4j、SAXReader
 
 ### 数据库技术
 
-Oracle、Redis、mySql、触发器、存储过程
+Oracle、Redis、MySql、触发器、存储过程
 
 ### 服务器技术
 
 Tomcat、Weblogic、Jenkins、Apache、Linux、Shell脚本、正则表达式
 
-###项目构建 版本控制
+### 项目构建 版本控制
 
 Maven、Ivy、Svn
 
