@@ -25,4 +25,6 @@ Tomcat、Weblogic、Jenkins、Apache、Linux、Shell脚本、正则表达式
 
 Maven、Ivy、Svn
 
-### 试试
+### JAVA
+
+数据结构（List、Map、Set）、
