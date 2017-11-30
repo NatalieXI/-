@@ -11,7 +11,7 @@ Vue、Webpack、Nodejs、SUI、Esline
 
 ### 后台技术
 
-Spring、Strtus、Ibatis、WebService、QuartZ、Log4j、POI、Dom4j、SAXReader
+Spring、Strtus、Ibatis、WebService、QuartZ、Log4j、POI、Dom4j、SAXReader、EhCache(缓存)
 
 ### 数据库技术
 
